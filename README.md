@@ -77,6 +77,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Legal
 
-Please refer to the [Legal Notice][LEGAL] for clarifications.
+Please refer to the [Legal Notice](LEGAL) for clarifications.
 
 ---
