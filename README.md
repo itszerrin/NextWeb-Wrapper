@@ -80,3 +80,15 @@ This project is licensed under the [MIT License](LICENSE).
 Please refer to the [Legal Notice](LEGAL.md) for clarifications.
 
 ---
+
+<table>
+  <tr>
+     <td>
+       <p align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/800px-Google_Colaboratory_SVG_Logo.svg.png" width="80%"></img>
+    </td>
+    <td> 
+      <img src="https://img.shields.io/badge/Google_Colab-orange"/> <br> 
+<a href="https://colab.research.google.com/drive/1sAZY0zTv-NrWHg-AeIY5WKp4hA9BZ9BM?usp=sharing">Also hosted on google colab</a>.<img width=2300/>
+    </td>
+  </tr>
+</table>
